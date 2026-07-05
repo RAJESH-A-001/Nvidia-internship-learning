@@ -1,0 +1,17 @@
+Data Cleaning Description: This program demonstrates the essential data cleaning techniques performed before training a machine learning model. It prepares raw data by identifying and handling missing values, removing duplicate records, and ensuring the dataset is consistent and ready for analysis. Operations Performed: - Loaded the dataset using Pandas. - Identified missing values. - Removed duplicate records. - Filled missing numerical values. - Filled missing categorical values. - Verified the cleaned dataset. Libraries Used: - Pandas - NumPy Learning Outcome: Gained hands-on experience in preprocessing datasets and understood the importance of clean data for accurate machine learning models.
+
+Operations Performed:
+- Loaded the dataset using Pandas.
+- Identified missing values.
+- Removed duplicate records.
+- Filled missing numerical values.
+- Filled missing categorical values.
+- Verified the cleaned dataset.
+
+Libraries Used:
+- Pandas
+- NumPy
+
+Learning Outcome:
+Gained hands-on experience in preprocessing datasets and understood the importance
+of clean data for accurate machine learning models.
